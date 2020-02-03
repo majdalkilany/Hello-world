@@ -9,5 +9,5 @@ and sleeping
 
 table of contact 
 * [growth mind](https://majdalkilany.github.io/learning-journal/)
-*  [why coding](https://majdalkilany.github.io/Hello-world/whycoding)
+*  [why coding](https://majdalkilany.github.io/Hello-world/coding)
 * [physics](https://majdalkilany.github.io/Hello-world/physics)
