@@ -8,6 +8,6 @@ i have some hoppyes to do like playing table tennis watching anime
 and sleeping 
 
 table of contact 
-* growth mind 
-* why coding
-* some physics
+* [growth mind](https://majdalkilany.github.io/learning-journal/)
+*  [why coding](https://majdalkilany.github.io/Hello-world/whycoding)
+* [physics](https://majdalkilany.github.io/Hello-world/physics)
